@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon client.js"
+  },
+  "dependencies": {
+    "ws": "^7.2.3"
+  }
+}
